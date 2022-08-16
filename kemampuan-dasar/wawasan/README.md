@@ -94,7 +94,7 @@ Ada juga beberapa cara untuk menginstal Git di Windows.
 Build paling resmi tersedia untuk diunduh di situs web Git. Cukup buka https://git-scm.com/download/win dan unduhan akan dimulai secara otomatis.
 
 
-#6.Membuat account GitHub serta membuat repo di GitHub.
+# 6.Membuat account GitHub serta membuat repo di GitHub.
 Membuat account GitHub
 1. Cukup kunjungi https://github.com , pilih nama pengguna yang belum digunakan, berikan alamat email dan kata sandi, dan klik tombol hijau besar “Sign up for GitHub”.
 2. Jika ingin menggunakan remote SSH, Anda harus mengonfigurasi kunci publik. Jika Anda belum memilikinya,
